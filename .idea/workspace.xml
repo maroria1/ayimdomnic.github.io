@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6031a5f-6240-4fc2-b367-17881aa6c331" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/dom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/dom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="88" column="216" selection-start-line="88" selection-start-column="216" selection-end-line="88" selection-end-column="216" />
+            <state relative-caret-position="137">
+              <caret line="402" column="52" selection-start-line="402" selection-start-column="52" selection-end-line="402" selection-end-column="52" />
               <folding>
                 <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -30,11 +29,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="dom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/dom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-412">
+              <caret line="6371" column="31" selection-start-line="6371" selection-start-column="31" selection-end-line="6371" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="6367" column="176" selection-start-line="6367" selection-start-column="176" selection-end-line="6367" selection-end-column="176" />
+            <state relative-caret-position="90">
+              <caret line="6368" column="17" selection-start-line="6368" selection-start-column="17" selection-end-line="6368" selection-end-column="178" />
             </state>
           </provider>
         </entry>
@@ -63,6 +71,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/assets/css/dom.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -94,6 +103,17 @@
             <path>
               <item name="ayimdomnic.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="ayimdomnic.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ayimdomnic.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ayimdomnic.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ayimdomnic.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ayimdomnic.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ayimdomnic.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -157,12 +177,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528796719675</updated>
-      <workItem from="1528796721224" duration="1355000" />
+      <workItem from="1528796721224" duration="2404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1355000" />
+    <option name="totallyTimeSpent" value="2404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="23" width="1400" height="921" extended-state="0" />
@@ -202,15 +222,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6367" column="176" selection-start-line="6367" selection-start-column="176" selection-end-line="6367" selection-end-column="176" />
+        <state relative-caret-position="90">
+          <caret line="6368" column="17" selection-start-line="6368" selection-start-column="17" selection-end-line="6368" selection-end-column="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/dom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-412">
+          <caret line="6371" column="31" selection-start-line="6371" selection-start-column="31" selection-end-line="6371" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="88" column="216" selection-start-line="88" selection-start-column="216" selection-end-line="88" selection-end-column="216" />
+        <state relative-caret-position="137">
+          <caret line="402" column="52" selection-start-line="402" selection-start-column="52" selection-end-line="402" selection-end-column="52" />
           <folding>
             <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
