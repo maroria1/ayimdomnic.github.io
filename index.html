@@ -492,20 +492,20 @@
 							<input type="text" name="name" class="form-control" placeholder="Name">
 						</div>
 						<div class="form-group">
-							<input type="email" name="email" class="form-control" placeholder="Email">
+							<input type="email" id="email" name="email" class="form-control" placeholder="Email">
 						</div>
 						<div class="form-group">
 							<input type="text" name="phone" class="form-control" placeholder="Phone">
 						</div>
 					</div>
 					<div class="col-md-6">
-						<textarea class="form-control" name="message" rows="6" placeholder="Message"></textarea>
+						<textarea class="form-control" id="message" name="message" rows="6" placeholder="Message"></textarea>
 					</div>
 				</div>
 			</form>
 			<div class="contact-btn">
 				<a class="btn btn-default rex-primary-btn-effect-No dark-color" href="mailto:ayimdominic@gmail.com" role="button"><span>Cancel</span></a>
-				<input type="submit" value="send" class="btn btn-default rex-primary-btn-effect">
+				<a  class="btn btn-default rex-primary-btn-effect" role="button" onclick="sendMail(); return false"> Send Mail</a>
 			</div>
 		</div>
 	</section>
@@ -541,6 +541,17 @@
     <script src="js/vendor/masonry.pkgd.min.js"></script>
     <script src="js/vendor/skrollr.js"></script>
     <script src="js/script.js"></script>
+  <script>
+	  function sendMail() {
+		  var link = "mailto:ayimdomnic@gmail.com"
+              + "?cc=" + escape(document.getElementById('email').value)
+              + "&subject=" + escape("Message from the contact form")
+              + "&body=" + escape(document.getElementById('message').value)
+          ;
+
+		  window.location.href = link;
+      }
+  </script>
 
   </body>
 </html>
