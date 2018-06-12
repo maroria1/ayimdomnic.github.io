@@ -485,27 +485,27 @@
 		<br>
 		<div>
 			<h4 class="title">Feel Free To Contact Me</h4>
-			<form class="contact-forms">
+			<form class="contact-forms" name="contact-form" method="post" action="mailer.php">
 				<div class="row">
 					<div class="col-md-6">
 						<div class="form-group">
-							<input type="text" class="form-control" placeholder="Name">
+							<input type="text" name="name" class="form-control" placeholder="Name">
 						</div>
 						<div class="form-group">
-							<input type="email" class="form-control" placeholder="Email">
+							<input type="email" name="email" class="form-control" placeholder="Email">
 						</div>
 						<div class="form-group">
-							<input type="text" class="form-control" placeholder="Phone">
+							<input type="text" name="phone" class="form-control" placeholder="Phone">
 						</div>
 					</div>
 					<div class="col-md-6">
-						<textarea class="form-control" rows="6" placeholder="Message"></textarea>
+						<textarea class="form-control" name="message" rows="6" placeholder="Message"></textarea>
 					</div>
 				</div>
 			</form>
 			<div class="contact-btn">
 				<a class="btn btn-default rex-primary-btn-effect-No dark-color" href="mailto:ayimdominic@gmail.com" role="button"><span>Cancel</span></a>
-				<a class="btn btn-default rex-primary-btn-effect" href="mailto:ayimdominic@gmail.com" role="button">Send</a>
+				<input type="submit" value="send" class="btn btn-default rex-primary-btn-effect">
 			</div>
 		</div>
 	</section>

@@ -1,0 +1,16 @@
+{
+    "name": "ayim/ayimdomnic.github.io",
+    "description": "My personal site",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Odhiambo Dormnic",
+            "email": "ayimdomnic@outlook.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "gregwar/captcha": "^1.1"
+    }
+}
