@@ -19,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="422" column="210" selection-start-line="422" selection-start-column="210" selection-end-line="422" selection-end-column="210" />
+            <state relative-caret-position="204">
+              <caret line="225" column="70" selection-start-line="225" selection-start-column="70" selection-end-line="225" selection-end-column="70" />
               <folding>
                 <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
@@ -153,25 +153,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528796719675</updated>
-      <workItem from="1528796721224" duration="5162000" />
+      <workItem from="1528796721224" duration="5396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5162000" />
+    <option name="totallyTimeSpent" value="5396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="23" width="1400" height="921" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981844" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981844" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32920793" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32920793" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -219,8 +219,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="422" column="210" selection-start-line="422" selection-start-column="210" selection-end-line="422" selection-end-column="210" />
+        <state relative-caret-position="204">
+          <caret line="225" column="70" selection-start-line="225" selection-start-column="70" selection-end-line="225" selection-end-column="70" />
           <folding>
             <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
