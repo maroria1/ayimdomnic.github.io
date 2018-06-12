@@ -6762,6 +6762,8 @@ footer {
 /* About section style
 	-------------------------*/
 .hero {
+  background: url("../../img/coverimage.png");
+  background: url("../../img/coverimage.png");
   background-color: #4dbfd9;
   background-position: top;
   background-repeat: no-repeat;
